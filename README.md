@@ -72,7 +72,7 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>YUVA SOFTWARE DEVELOPING CENTER</h1>
+                    <h1>KATHIR SOFTWARE DEVELOPING CENTER</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
@@ -88,7 +88,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KATHIR</footer></div>
             </div>
         </div>
     </body>
@@ -296,7 +296,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KATHIR</footer></div>
             </div>
         </div>
     </body>
@@ -483,7 +483,7 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Yuvaranithulasingam</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>KATHIR</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
@@ -504,7 +504,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KATHIR</footer></div>
             </div>
         </div>
     </body>
@@ -564,15 +564,15 @@ contact.html
                     <ul>
                         <li><b>Landline:</b> 14345677</li>
                         <li><b>Mobile</b>: 80 60 40 2004</li>
-                        <li><b>Facebook</b>: fb/yuvadeveloping</li>
-                        <li><b>Email Id:</b>yuvasoft@gmail.com</li>
+                        <li><b>Facebook</b>: fb/kathir</li>
+                        <li><b>Email Id:</b>kathir@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:red;font-size:20px;"><b>Use our services and Make your bright Future!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KATHIR</footer></div>
             </div>
         </div>
     </body>
@@ -713,13 +713,10 @@ styles.css
         }
 ```
 ## OUTPUT:
-![Output](./out(home).png)
-![Output](./out(pro).png)
-![Output](./out(people).png)
-![Output](./out(con).png)
+![web1](https://github.com/Skathiranand/website/assets/147141136/b6739bba-2516-4cbb-b218-0faa6f4ab9ae)
+![web2](https://github.com/Skathiranand/website/assets/147141136/8f79341c-c925-4032-b057-0637d34ea8a3)
+![web3](https://github.com/Skathiranand/website/assets/147141136/6c511723-306b-4559-a287-c5235a370670)
 
-## HTML VALIDATOR:
 
-![Html validator](./ex7(valid).png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
